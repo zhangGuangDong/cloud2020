@@ -10,7 +10,7 @@ import java.io.Serializable;
  * java类简单作用描述
  *
  * @projectName: cloud2020
- * @package: com.atguigu.springcloud.entities
+ * @package: com.atguigu.com.atguigu.springcloud.entities
  * @className: Payment
  * @description: java类作用描述
  * @author: 张广东

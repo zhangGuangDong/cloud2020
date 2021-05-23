@@ -13,7 +13,7 @@ import javax.annotation.Resource;
  * java类简单作用描述
  *
  * @projectName: cloud2020
- * @package: com.atguigu.springcloud.controller
+ * @package: com.atguigu.com.atguigu.springcloud.controller
  * @className: PaymentController
  * @description: java类作用描述
  * @author: 张广东

@@ -11,7 +11,7 @@ import javax.annotation.Resource;
  * java类简单作用描述
  *
  * @projectName: cloud2020
- * @package: com.atguigu.springcloud.service.impl
+ * @package: com.atguigu.com.atguigu.springcloud.service.impl
  * @className: PaymentServiceImpl
  * @description: java类作用描述
  * @author: 张广东
@@ -27,13 +27,11 @@ public class PaymentServiceImpl implements PaymentService {
     @Resource
     private PaymentDao paymentDao;
 
-    public int create(Payment payment)
-    {
+    public int create(Payment payment) {
         return paymentDao.create(payment);
     }
 
-    public Payment getPaymentById(Long id)
-    {
+    public Payment getPaymentById(Long id) {
         return paymentDao.getPaymentById(id);
     }
 

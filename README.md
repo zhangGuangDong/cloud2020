@@ -1,2 +1,2 @@
 # cloud2020
-zgd learn springcloud
+zgd learn com.atguigu.springcloud

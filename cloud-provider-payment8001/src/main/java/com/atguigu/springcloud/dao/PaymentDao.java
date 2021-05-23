@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Param;
  * java类简单作用描述
  *
  * @projectName: cloud2020
- * @package: com.atguigu.springcloud.dao
+ * @package: com.atguigu.com.atguigu.springcloud.dao
  * @className: PaymentDao
  * @description: java类作用描述
  * @author: 张广东

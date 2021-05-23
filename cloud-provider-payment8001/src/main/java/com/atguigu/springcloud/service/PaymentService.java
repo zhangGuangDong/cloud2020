@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
  * java类简单作用描述
  *
  * @projectName: cloud2020
- * @package: com.atguigu.springcloud.service
+ * @package: com.atguigu.com.atguigu.springcloud.service
  * @className: PaymentService
  * @description: java类作用描述
  * @author: 张广东
