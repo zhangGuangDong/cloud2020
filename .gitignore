@@ -23,3 +23,5 @@
 hs_err_pid*
 /.idea/
 /cloud-provider-payment8001/target/classes/
+/cloud-api-commons/target/
+/cloud-consumer-order80/target/classes/
